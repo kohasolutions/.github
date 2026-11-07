@@ -38,6 +38,26 @@ The platform is already **operating in production with 20+ libraries**, backed b
 
 ---
 
+## 🧰 Open-Source Tools for Koha
+
+Free tools for anyone who runs Koha, built from the problems we solve for libraries every day. Each one is tested
+on a real Koha before it is released, and its README shows the output it really gives.
+
+| Tool | What it does | Status |
+|---|---|---|
+| **koha-api-client** | Call the Koha REST API from the command line or Python; the token is handled for you | In progress |
+| **koha-opac-snippets** | Tested copy-paste `OPACUserCSS` / `OPACUserJS` customisations, with screenshots | Planned |
+| **koha-install** | One command installs Koha on Ubuntu or Debian | Planned |
+| **koha-health-check** | Diagnose a broken Koha server and get the fix for each problem | Planned |
+| **koha-sql-reports** | SQL reports checked against the current Koha database | Planned |
+| **koha-backup** | Scheduled backups with a restore you have actually tested | Planned |
+| **koha-notice-templates** | Clean, mobile-friendly overdue, hold and welcome notices | Planned |
+| **koha-csv-to-marc** | Turn a spreadsheet of books into a file Koha imports | Planned |
+
+Practical answers to everyday Koha questions: **[Koha knowledge base](https://kohasolutions.com/knowledge-base)**.
+
+---
+
 ## 🚀 What We're Building
 
 ### 🤖 AI-Powered Library Tools
