@@ -49,7 +49,7 @@ on a real Koha before it is released, and its README shows the output it really 
 | **koha-opac-snippets** | Tested copy-paste `OPACUserCSS` / `OPACUserJS` customisations, with screenshots | Planned |
 | **koha-install** | One command installs Koha on Ubuntu or Debian | Planned |
 | **koha-health-check** | Diagnose a broken Koha server and get the fix for each problem | Planned |
-| **koha-sql-reports** | SQL reports checked against the current Koha database | Planned |
+| [**koha-sql-reports**](https://github.com/kohasolutions/koha-sql-reports) | 18 SQL reports, each run through Koha's own report engine; columns checked on Koha 23.11–26.05 | ✅ Released |
 | **koha-backup** | Scheduled backups with a restore you have actually tested | Planned |
 | **koha-notice-templates** | Clean, mobile-friendly overdue, hold and welcome notices | Planned |
 | **koha-csv-to-marc** | Turn a spreadsheet of books into a file Koha imports | Planned |
