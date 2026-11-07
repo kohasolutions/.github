@@ -1,0 +1,29 @@
+name: Bug report
+description: Something does not work as the README says
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Remove names, emails, card numbers, passwords and API secrets from anything you paste.
+  - type: input
+    id: koha
+    attributes: { label: Koha version, placeholder: "e.g. 26.05.02" }
+    validations: { required: true }
+  - type: input
+    id: os
+    attributes: { label: Operating system, placeholder: "e.g. Ubuntu 24.04" }
+    validations: { required: true }
+  - type: input
+    id: tool
+    attributes: { label: Version of this tool, placeholder: "e.g. 1.0.0" }
+  - type: textarea
+    id: ran
+    attributes: { label: What you ran, render: shell }
+    validations: { required: true }
+  - type: textarea
+    id: got
+    attributes: { label: What it printed, render: text }
+    validations: { required: true }
+  - type: textarea
+    id: expected
+    attributes: { label: What you expected }

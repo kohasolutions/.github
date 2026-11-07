@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions about Koha itself
+    url: https://koha-community.org/support/
+    about: The Koha community's mailing lists, chat and documentation.
+  - name: Koha how-to answers
+    url: https://kohasolutions.com/knowledge-base
+    about: Short, practical answers to common Koha tasks and errors.
+  - name: Security problem
+    url: https://github.com/kohasolutions/.github/blob/main/SECURITY.md
+    about: Please report privately, not in an issue.
