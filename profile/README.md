@@ -51,7 +51,8 @@ on a real Koha before it is released, and its README shows the output it really 
 | **koha-health-check** | Diagnose a broken Koha server and get the fix for each problem | Planned |
 | [**koha-sql-reports**](https://github.com/kohasolutions/koha-sql-reports) | 18 SQL reports, each run through Koha's own report engine; columns checked on Koha 23.11–26.05 | ✅ Released |
 | [**koha-backup**](https://github.com/kohasolutions/koha-backup) | Scheduled `koha-dump` backups, a monthly restore self-test and encrypted off-site copies; 44 checks on Koha 26.05 | ✅ Released |
-| **koha-notice-templates** | Clean, mobile-friendly overdue, hold and welcome notices | Planned |
+| [**koha-notice-templates**](https://github.com/kohasolutions/koha-notice-templates) | 18 clean, mobile-friendly notices (overdue, hold, checkout, welcome…) in email, SMS and print; 159 checks on Koha 26.05 | ✅ Released |
+| [**koha-notice-template-builder**](https://github.com/kohasolutions/koha-notice-template-builder) | Build those notices in the browser with your library's colours, eight designs and a live preview | In progress |
 | **koha-csv-to-marc** | Turn a spreadsheet of books into a file Koha imports | Planned |
 
 Practical answers to everyday Koha questions: **[Koha knowledge base](https://kohasolutions.com/knowledge-base)**.
